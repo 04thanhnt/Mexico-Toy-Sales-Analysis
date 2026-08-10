@@ -2,11 +2,11 @@
 
 # **1. Project Background**
 
-This project analyzes the sales performance of a retail business operating across multiple stores and product categories. From a Data Analyst perspective, the objective is to evaluate revenue and order performance, understand differences across locations and product categories, assess store-level profitability, and identify potential inventory risks.
+Maven Toys is a multi-store toy retailer operating **50 stores across multiple locations** and offering a diverse range of toy products across several categories. The business generates revenue through in-store sales, making store performance, product demand, profitability, and inventory availability important factors in maintaining sustainable sales growth.
 
-The analysis covers **full-year 2022 and the first nine months of 2023**, using transaction-level sales data together with product, store, and inventory information.
+From a Data Analyst perspective, this project aims to evaluate the company's sales performance across **2022 and the first nine months of 2023**. The analysis focuses on revenue and order trends, Average Order Value (AOV), revenue distribution across locations and product categories, store-level and category-level profitability, and potential inventory risks associated with high-demand products.
 
-Insights and recommendations are provided across the following key business areas:
+The analysis covers **full-year 2022 and the first nine months of 2023**, using transaction-level sales data together with product, store, and inventory information. Insights and recommendations are provided across the following key business areas:
 
 - **Sales Performance:** Revenue and order trends over time
 - **Location Performance:** Revenue contribution and geographic concentration
@@ -15,22 +15,22 @@ Insights and recommendations are provided across the following key business area
 
 The analysis was conducted using **Microsoft Excel, Power Query, PivotTables, PivotCharts, and interactive slicers**. The final dashboard was developed to allow stakeholders to explore sales performance across different time periods, locations, and product categories.
 
+
 ---
 # **2. Project Files**
-## 2. Project Files
 ### Dataset 
-- 📊 [Raw Data](Dataset.xlsx)
+- 📊 [Raw Data & Data dictionary](Dataset.xlsx)
 
 ### Dashboard
-- 📊 [Excel Dashboard(Sheet 4)](Pivot_Dashboard.xlsx)
+- 🖥️ [Excel Dashboard(Sheet 4)](Pivot_Dashboard.xlsx)
 
 
 ### Power Query and Pivot Table Processing 
-- 📊 [Power Query](Power_Query.xlsx)
-- 📊 [Pivot table (Sheet 3)](Pivot_Dashboard.xlsx)
+- ⚙️ [Power Query](Power_Query.xlsx)
+- 📋 [Pivot table (Sheet 3)](Pivot_Dashboard.xlsx)
 ### Images
 - 🗺️ [ERD](Images/ERD.png)
-- 📊 [Dashboard](Images/Dashboard.png)
+- 🖥️ [Dashboard](Images/Dashboard.png)
 ---
 
 # **3. Data Structure Overview**
