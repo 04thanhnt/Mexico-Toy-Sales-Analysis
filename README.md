@@ -1,4 +1,4 @@
-# **Mexico Toys Store Analysis**
+# **Mexico Toys Stores Analysis**
 
 # **1. Project Background**
 
