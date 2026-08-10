@@ -51,7 +51,7 @@ Here is the ERD:
 
 ### **Overview of Findings**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4b3b9059-5e7e-4a16-b944-d73ef8e92e2a" alt="Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/0a023b85-9256-4ab8-a3dd-75a964c78e22" alt="Dashboard" width="900">
 </p>
 
 The business demonstrated **stronger sales performance in the first nine months of 2023**, with total revenue increasing by approximately **31%** and order volume increasing by **37.5%** compared with the same period in 2022. However, revenue remained highly concentrated in **Downtown, which contributed more than 56% of total revenue**, while Toys continued to be the largest revenue-generating category despite having substantially lower profit margins than Electronics.
