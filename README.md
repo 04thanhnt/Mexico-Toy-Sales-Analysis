@@ -45,14 +45,13 @@ The dataset consists of five tables:
 Here is the ERD:
 
 ![ERD](Images/ERD.png)
+
 ---
 
 # **4. Executive Summary**
 
 ### **Overview of Findings**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0a023b85-9256-4ab8-a3dd-75a964c78e22" alt="Dashboard" width="900">
-</p>
+![Dashboard](Images/Dashboard.png)
 
 The business demonstrated **stronger sales performance in the first nine months of 2023**, with total revenue increasing by approximately **31%** and order volume increasing by **37.5%** compared with the same period in 2022. However, revenue remained highly concentrated in **Downtown, which contributed more than 56% of total revenue**, while Toys continued to be the largest revenue-generating category despite having substantially lower profit margins than Electronics.
 
@@ -62,9 +61,7 @@ From an operational perspective, the findings highlight two key areas requiring 
 # **5. Insights Deep Dive**
 
 ## **5.1. Sales Performance**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/227afb70-4ae4-447b-94b9-62f64653761e" alt="Dashboard" width="900">
-</p>
+![Sales](Images/Sales_performance.png)
 
 - **Revenue remained consistently higher in 2023 during the first nine months.** Every month from January to September recorded higher revenue than the corresponding month in 2022. Revenue also remained relatively stable throughout Q2(April - June), while November and December 2022 showed a noticeable increase in year-end sales activity.
 
@@ -72,9 +69,7 @@ From an operational perspective, the findings highlight two key areas requiring 
 
 
 ## **5.2. Location Performance**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bfa56d58-5136-44f0-a34b-4c50834dc85e" alt="Dashboard" width="900">
-</p>
+![Location](Images/Location_performance.png)
 
 - **Downtown remained the dominant revenue-generating location.** Downtown contributed approximately **56.5% of total revenue in full-year 2022 and 57.4% during the first nine months of 2023**, while Airport and Residential contributed only approximately **8–12% each**. This indicates a high concentration of revenue in Downtown.
 
@@ -83,11 +78,8 @@ From an operational perspective, the findings highlight two key areas requiring 
 
 
 ## **5.3. Category & Profitability**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0464224b-1185-44e8-8cf7-236085217fb6" alt="Dashboard  width="48%">
-  <img src="https://github.com/user-attachments/assets/5c83e56f-1ed1-4264-a6e5-86a1e64e933b" alt="Dashboard width="48%">
-</p>
-
+![Category](Images/Category.png)
+![Profitability](Images/Profitability.png)
 
 - **Toys was the highest-revenue category in both periods.** Toys generated approximately **\$2.79M in full-year 2022** and **$2.30M during the first nine months of 2023**, representing approximately **37% and 33% of total revenue**, respectively.
 
@@ -96,9 +88,7 @@ From an operational perspective, the findings highlight two key areas requiring 
 
 
 ## **5.4. Product & Inventory**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b2524487-070b-4352-a717-58b448c32e2f" alt="Dashboard" width="900">
-</p>
+![ERD](Images/Inventory.png)
 
 - **Art & Crafts and Toys showed the strongest product-level demand.** Six of the ten best-selling products belonged to **Art & Crafts and Toys**, with **three products** from each category. This indicates that their strong category-level performance is supported by multiple high-volume products rather than being driven by a single product.
 
